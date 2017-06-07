@@ -1,0 +1,7 @@
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\bin\Debug\FactoryAndAbstractFactoryDesignPattern.exe.config

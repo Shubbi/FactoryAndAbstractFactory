@@ -1,0 +1,6 @@
+C:\Shubbi\ConsoleApplication4\ConsoleApplication1\bin\Debug\DesignPatterns.exe.config
+C:\Shubbi\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Shubbi\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Shubbi\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Shubbi\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Shubbi\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
